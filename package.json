@@ -1,0 +1,13 @@
+{
+  "name": "daroba",
+  "version": "0.0.0",
+  "description": "in-memory graphdb",
+  "main": "index.js",
+  "repository": "git@github.com:hmahal/daroba.git",
+  "author": "Harman Mahal <harmanmahal@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^10.1.2",
+    "typescript": "^2.8.3"
+  }
+}
